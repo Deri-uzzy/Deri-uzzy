@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deri-uzzy
 - 👀 I’m interested in women 
-- 🌱 I’m currently learning ALX SE
+- 🌱 I’m currently learning software engineering
+
 - 💞️ I’m looking to collaborate on software
  engineering programs
 - 📫 How to reach me email me via omondigodfrey061@gmail.com
